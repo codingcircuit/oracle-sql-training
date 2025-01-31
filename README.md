@@ -31,4 +31,4 @@
 
 ## License
 
-[MIT © Venkatrami Reddy Durgempudi.](/LICENSE)
+[MIT © Coding Circuit TM.](/LICENSE)
